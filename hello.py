@@ -1,0 +1,1 @@
+print("Hello, GitHub from 大一AI!")
